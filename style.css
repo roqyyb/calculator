@@ -25,6 +25,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: end;
+  background-color: #b2b9b7;
 }
 .row {
   display: flex;
