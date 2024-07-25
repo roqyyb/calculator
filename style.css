@@ -10,10 +10,16 @@ body {
 }
 .calculator {
   margin: 0 auto;
-  margin-top: 10rem;
+  margin-top: 0.8rem;
   height: 500px;
   width: 450px;
   border: 10px solid black;
+}
+.info {
+  text-align: center;
+  margin-top: 10rem;
+  color: blue;
+  font-size: medium;
 }
 
 .screen {
